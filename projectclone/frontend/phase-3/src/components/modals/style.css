@@ -1,0 +1,167 @@
+.filter-button {
+    margin: auto;
+    display: block;
+    width: 40vw;
+}
+
+.reacticon {
+    padding-right: 5px;
+}
+
+.staricon {
+  padding-left: 15px;
+  font-size: 2rem;
+  padding-bottom: 5px;
+  padding-right: 2px;
+}
+
+.idk {
+  padding-left: 5px
+}
+
+.rating-text {
+  font-size: 1rem;
+}
+
+.form-group {
+    padding-bottom: 20px;
+}
+.form-group-button {
+  padding: 0px 10px;
+  padding-left: 20px;
+}
+
+.color-rating {
+  background-color: white; 
+  color: gold;
+}
+
+.no-color-rating {
+  background-color: white; 
+  color: #6c757d; 
+}
+
+.modal-category {
+  margin: auto;
+  display: block;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+.price-input {
+  padding-top: 10px;
+}
+
+.form-group {
+  padding-bottom: 20px;
+}
+
+.form-group-button {
+  padding: 0px 10px;
+  padding-left: 20px;
+}
+
+.amenities-title {
+  padding-bottom: 20px;
+  padding-top: 30px;
+}
+
+.check-container {
+  padding-right: 5px;
+}
+
+/* IMAGEDISPLAY */
+.view-all-photos-btn {
+  font-size: small;
+}
+
+.overlay-btn {
+  position: absolute;
+  left: 82%; /* adjust as required */
+  top: 85%; /* adjust as required */
+  font-size: 1em;
+  padding: 2px;
+}
+
+/* AMENITIES MODAL */
+
+.amenities-title {
+  padding-bottom: 20px;
+  padding-top: 30px;
+}
+
+.line-left-align {
+  text-align: left;
+}
+
+/* COMMENTS MODAL */
+.line-right-align {
+  float: right
+}
+
+.line-left-align h4 {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/* .comment-reply {
+  padding-top: 25px;
+  padding-left: 20px;
+} */
+
+.comment-reply {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 25px;
+  padding-left: 20px;
+}
+
+.comment-reply > div {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.comment-reply > div > h5 {
+  margin-right: auto;
+}
+
+.comment-reply > div > div {
+  text-align: right;
+}
+
+
+/* Comment Modal */
+.pagination-bar {
+  width: 100px;
+  margin-bottom: 15px;
+}
+
+.addComment {
+  margin-top: 20px;
+}
+
+.addCommentBtn {
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+}
+
+.middle {
+  margin: auto;
+  display: block;
+}
+
+.error {
+  color: red;
+}
+
+.comment-section {
+  padding-bottom: 7px;
+}
+
+.rating-right-align {
+  float: right;
+  margin-left: 60px;
+}

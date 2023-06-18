@@ -1,0 +1,67 @@
+.results-row {
+  padding: 20px 20px 0px 20px;
+}
+
+.btnFormatting {
+  font-size: small !important;
+  font-weight: 300 !important;
+}
+
+/* PROPERTYINFO PAGE */
+
+.property-info-container {
+  padding: 20px 30px;
+}
+
+.property-imgs {
+  padding-bottom: 30px;
+}
+
+.left-img {
+  padding-right: 0px !important;
+}
+
+.right-img {
+  padding-left: 0px !important;
+}
+
+.img-container {
+  width: 100%;
+}
+
+.relative-position {
+  position: relative;
+}
+
+.view-amenities-btn {
+  padding: 20px 0px;
+  margin: auto;
+}
+
+.sticky-line {
+  margin-top: 10px;
+}
+
+.line-left-align {
+  text-align: left;
+}
+
+.rating-right-align {
+  float: right;
+  margin-right:23px;
+}
+
+.comment-container {
+  width: 100%;
+  padding-bottom: 10px !important;
+}
+
+.comment-card {
+  border: 1px solid #dee2e6;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.line-right-align {
+  float: right
+}

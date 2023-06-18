@@ -1,0 +1,181 @@
+
+
+/* a {
+    color: white !important;
+    text-decoration: none !important;
+    transition: all 0.3s;
+} */
+
+/* 
+a:hover, a:focus {
+  color: #007bff !important;
+  background-color: white;
+}
+
+
+#sidebar {
+    background: #007bff;
+    color: #fff !important;
+    transition: all 0.3s;
+    justify-content: center;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+#sidebar .sidebar-header {
+    padding: 20px;
+
+}
+
+
+#sidebar ul.components {
+    padding: 20px 0;
+
+}
+
+#sidebar ul p {
+    color: #fff;
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+
+#sidebar ul li a:hover {
+    color: #007bff;
+    background: #fff;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: #fff;
+    background: darkblue;
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #007bff;
+}
+
+ul.CTAs {
+    padding: 20px;
+}
+
+ul.CTAs a {
+    text-align: center;
+    font-size: 0.9em !important;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+a.download {
+    background: #fff;
+    color: #007bff;
+}
+
+a.article,
+a.article:hover {
+    background: #6d7fcc !important;
+    color: #fff !important;
+}
+
+.smallheader {
+    margin-left: 0.75rem;
+} */
+
+
+/* #sidebar {
+    background-color: #007bff;
+    flex-direction: column;
+    width: 20%;
+}
+
+#sidebar a:hover, #sidebar svg:hover{
+
+    background-color: white !important;
+    color: #007bff !important;
+
+}
+
+.smallheader {
+    color: white;
+}
+
+
+.accordion-button {
+    background-color: #007bff !important;
+    color: white !important;
+    text-align: center;
+}
+
+.accordion-button:hover, .accordion-button:focus {
+    background-color: white !important;
+    color: #007bff !important;
+
+} */
+
+/* .accordion-button::after:hover {
+    color: white !important;
+    background-color: #007bff;
+} */
+
+/* #container-sidebar.sidebarcontainer {
+    display: flex;
+    width: 20%;
+} */
+
+
+
+
+
+
+
+#sidebar.bg-color {
+    background-color: #007bff;
+    color: white !important;
+    text-align: center;
+    width: 100% !important;
+    height: 100% !important;
+    /* flex: 0 0 auto !important; */
+
+
+}
+
+
+.ps-menu-button {
+    background-color: #007bff;
+}
+
+.ps-menu-button:hover {
+    background-color: blue !important;
+}
+
+a.cheetah {
+    text-decoration: none !important;
+    color: white;
+}
+
+a.cheetah:hover {
+    color: white;
+}
+
+

@@ -1,0 +1,76 @@
+
+
+[{"comments":"added 2 users and 2 properties - not sure how to set prop owner yet" }, 
+
+
+
+
+
+{"model": "webpages.restifyuser" , "pk": 1 ,"fields": {
+    "username": "mustafa",
+    "email": "mm@jj.com",
+    "first_name": "mu",
+    "last_name": "im",
+    "phone_number": 235545435,
+    "password": "1234"
+
+}}, {"model": "webpages.restifyuser" , "pk": 2 ,"fields": {
+    "username": "prof",
+    "email": "prof@jj.com",
+    "first_name": "mu",
+    "last_name": "im",
+    "phone_number": 235545435,
+    "password": "1234"
+
+}},
+
+
+{
+   "model": "webpages.property" , "pk": 1 ,"fields": {
+        "address": "Toronto, CA",
+        "number_of_guest": 2,
+        "number_of_bed": 2,
+        "number_of_rooms": 3,
+        "baths": 1,
+        "description": "Beautiful Place",
+        "essentials": [
+            "wifi",
+            "tv",
+            "kitchen",
+            "dryer"
+        ],
+        "features": [
+            "hot_tub",
+            "outdoor_shower"
+        ],
+        "location": [
+            "lake_access"
+        ],
+        "safety_features": [
+            "smoke_detector"
+        ]
+    }},
+
+    { "model": "webpages.property" , "pk": 1 ,"fields": {
+        "address": "Downtown Toronto, CA",
+        "number_of_guest": 4,
+        "number_of_bed": 5,
+        "number_of_rooms": 4,
+        "baths": 4,
+        "description": "Best place to live!",
+        "essentials": [
+            "wifi",
+            "air_conditioning"
+        ],
+        "features": [
+            "gym",
+            "fire_pit"
+        ],
+        "location": [
+            "skiin_skiout"
+        ],
+        "safety_features": [
+            "smoke_detector"
+        ]
+    }}
+]

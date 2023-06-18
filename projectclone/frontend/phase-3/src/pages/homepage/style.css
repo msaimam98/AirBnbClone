@@ -1,0 +1,34 @@
+.wrapper2 {
+    width: 75vw;
+    margin: auto;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+
+.invalid {
+    color: red;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+}
+.footer {
+    
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem; 
+
+
+
+    
+
+  }
+
+  .content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }

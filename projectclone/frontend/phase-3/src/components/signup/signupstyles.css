@@ -1,0 +1,15 @@
+.myform {
+    align-items: center;
+    /* padding: 30px; */
+    margin: 40px;
+    font-weight: 500;
+    margin-top: 60px;
+    padding-top: 0;
+
+    /* max-width: 60%; */
+
+}
+
+.form2 {
+    text-align: left;
+}

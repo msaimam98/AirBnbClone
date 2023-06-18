@@ -1,0 +1,6 @@
+#card.card2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}

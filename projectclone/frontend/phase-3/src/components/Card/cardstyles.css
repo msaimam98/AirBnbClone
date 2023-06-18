@@ -1,0 +1,130 @@
+.total-price {
+  text-decoration: underline;
+  float: right;
+}
+
+.card-left-align {
+  text-align: left;
+}
+
+.card-right-align {
+  float: right;
+}
+
+@media only screen and (max-width: 992px) {
+  .card-right-align {
+    float: initial;
+    display: block;
+  }
+}
+
+.results-card {
+  padding: 10px;
+}
+
+.view-listing-btn {
+  font-size: small !important;
+  font-weight: 200 !important;
+}
+
+.upper-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 99;
+  /* padding: 4px; */
+  margin: 4px ;
+  font-weight: 100 !important;
+  font-size: small !important;
+  height: 5%;
+  color: #007bff;
+  background-color: white;
+  padding: 2px;
+  border-radius: 4px;
+}
+
+.reacticon {
+  padding-right: 5px;
+}
+
+/* Reservation card */
+
+.sticky-offset {
+  top: 100px;
+  z-index: 1;
+}
+
+.card-center {
+  width: 100%;
+  margin: auto;
+}
+
+.line-right-align {
+  float: right
+}
+
+.purple-color {
+  color: #007bff;
+}
+
+.form-group {
+  padding-bottom: 20px;
+}
+
+.submit-form-btn {
+  padding-top: 10px;
+}
+
+.full-width {
+  width: 100%
+}
+
+
+
+.fixit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+
+.fixit-wrapper {
+  overflow: hidden;
+  height: 250px;
+   
+}
+
+.fixit-wrapper img {
+  width: 100% !important;
+  /* height: 100%; */
+  min-height: 250px;
+  object-fit: cover;
+}
+
+
+.fixit-button {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+}
+
+
+
+/* Only for cardCompleted */
+
+.makeitwork {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+
+.rowchampion {
+
+  display: flex;
+  flex-direction: row;
+
+  
+}

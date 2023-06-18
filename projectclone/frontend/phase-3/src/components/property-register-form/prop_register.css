@@ -1,0 +1,16 @@
+#propertyregister.prop {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5%;
+    text-align: left;
+
+}
+
+.incrementer {
+    display: flex;
+    flex-direction: row;
+    /* align-items:flex-end; */
+
+}

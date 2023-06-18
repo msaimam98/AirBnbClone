@@ -1,0 +1,96 @@
+.comment-card {
+    border: 1px solid #dee2e6;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+
+  .new-message-box {
+    margin: 15px 0;
+    padding-left: 20px;
+    margin-bottom: 25px!important;
+}
+
+.new-message-box p{
+    font-size: 1.15em;
+    font-weight: 600;
+    
+}
+
+.new-message-box-info {
+    background: #eeeeee;
+    padding: 3px;
+    margin: 10px 0;
+}
+
+.info-tab {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    position: relative;
+    top: 8px;
+}
+
+.info-tab {
+    float: left;
+    margin-left: -23px;
+}
+
+.info-tab i::before {
+    width: 24px;
+    height: 24px;
+    box-shadow: inset 12px 0 13px rgba(0,0,0,0.5);
+    
+}
+
+.tip-icon-info {
+    background: #03A9F4;
+}
+
+.tip-icon-info::before {
+    font-size: 25px;
+    content:"\f129";
+    top: 8px;
+    left: 11px;
+    font-family: FontAwesome;
+    position: absolute;
+    color: white;
+}
+
+.tip-icon-info i::before {
+    background: #03A9F4;
+}
+
+.tip-box-info {
+    color: #01579B;
+    background: #B3E5FC;
+}
+
+.note-box, .warning-box, .tip-box-success, .tip-box-danger, .tip-box-warning, .tip-box-info, .tip-box-alert {
+    padding: 12px 8px 3px 26px;
+}
+
+.line-left-align {
+    text-align: left;
+  }
+  
+  /* COMMENTS MODAL */
+  .line-right-align {
+    float: right
+  }
+
+.circle {
+    border-radius: 50%;
+    background-color: #03A9F4;
+    width: 10px;
+    height: 10px;
+    float: right;
+}
+
+.notif-btn {
+    margin: 10px;
+}
+
+.pagination-bar {
+    width: 100px;
+    margin-bottom: 15px;
+  }
